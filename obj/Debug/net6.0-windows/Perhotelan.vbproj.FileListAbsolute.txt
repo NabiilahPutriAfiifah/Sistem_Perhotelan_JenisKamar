@@ -1,0 +1,15 @@
+D:\Dokumen\Contoh Tugas Temen\Sistem_Perhotelan_JenisKamar\obj\Debug\net6.0-windows\Perhotelan.vbproj.AssemblyReference.cache
+D:\Dokumen\Contoh Tugas Temen\Sistem_Perhotelan_JenisKamar\obj\Debug\net6.0-windows\Perhotelan.EditJenisKamar.resources
+D:\Dokumen\Contoh Tugas Temen\Sistem_Perhotelan_JenisKamar\obj\Debug\net6.0-windows\Perhotelan.HapusJenisKamar.resources
+D:\Dokumen\Contoh Tugas Temen\Sistem_Perhotelan_JenisKamar\obj\Debug\net6.0-windows\Perhotelan.InfoJenisKamar.resources
+D:\Dokumen\Contoh Tugas Temen\Sistem_Perhotelan_JenisKamar\obj\Debug\net6.0-windows\Perhotelan.JenisKamar_.resources
+D:\Dokumen\Contoh Tugas Temen\Sistem_Perhotelan_JenisKamar\obj\Debug\net6.0-windows\Perhotelan.TambahJenisKamar.resources
+D:\Dokumen\Contoh Tugas Temen\Sistem_Perhotelan_JenisKamar\obj\Debug\net6.0-windows\Perhotelan.Login.resources
+D:\Dokumen\Contoh Tugas Temen\Sistem_Perhotelan_JenisKamar\obj\Debug\net6.0-windows\Perhotelan.preview.resources
+D:\Dokumen\Contoh Tugas Temen\Sistem_Perhotelan_JenisKamar\obj\Debug\net6.0-windows\Perhotelan.Regist.resources
+D:\Dokumen\Contoh Tugas Temen\Sistem_Perhotelan_JenisKamar\obj\Debug\net6.0-windows\Perhotelan.Penginapan.resources
+D:\Dokumen\Contoh Tugas Temen\Sistem_Perhotelan_JenisKamar\obj\Debug\net6.0-windows\Perhotelan.vbproj.GenerateResource.cache
+D:\Dokumen\Contoh Tugas Temen\Sistem_Perhotelan_JenisKamar\obj\Debug\net6.0-windows\Perhotelan.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dokumen\Contoh Tugas Temen\Sistem_Perhotelan_JenisKamar\obj\Debug\net6.0-windows\Perhotelan.AssemblyInfoInputs.cache
+D:\Dokumen\Contoh Tugas Temen\Sistem_Perhotelan_JenisKamar\obj\Debug\net6.0-windows\Perhotelan.AssemblyInfo.vb
+D:\Dokumen\Contoh Tugas Temen\Sistem_Perhotelan_JenisKamar\obj\Debug\net6.0-windows\Perhotelan.vbproj.CoreCompileInputs.cache
