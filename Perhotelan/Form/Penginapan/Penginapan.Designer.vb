@@ -225,7 +225,7 @@ Partial Class Penginapan
         Me.ToolStrip1.Location = New System.Drawing.Point(0, 0)
         Me.ToolStrip1.Name = "ToolStrip1"
         Me.ToolStrip1.Padding = New System.Windows.Forms.Padding(0, 0, 3, 0)
-        Me.ToolStrip1.Size = New System.Drawing.Size(1003, 28)
+        Me.ToolStrip1.Size = New System.Drawing.Size(1003, 25)
         Me.ToolStrip1.TabIndex = 90
         Me.ToolStrip1.Text = "ToolStrip1"
         '
@@ -236,7 +236,7 @@ Partial Class Penginapan
         Me.ToolStripBtnPenginapan.Image = CType(resources.GetObject("ToolStripBtnPenginapan.Image"), System.Drawing.Image)
         Me.ToolStripBtnPenginapan.ImageTransparentColor = System.Drawing.Color.Magenta
         Me.ToolStripBtnPenginapan.Name = "ToolStripBtnPenginapan"
-        Me.ToolStripBtnPenginapan.Size = New System.Drawing.Size(31, 23)
+        Me.ToolStripBtnPenginapan.Size = New System.Drawing.Size(31, 20)
         Me.ToolStripBtnPenginapan.Text = "ToolStripDropDownButton1"
         '
         'FormJenisKamar

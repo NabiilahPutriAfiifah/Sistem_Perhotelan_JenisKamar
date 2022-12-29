@@ -37,4 +37,8 @@ Public Class Penginapan
         jk.Show()
         Me.Close()
     End Sub
+
+    Private Sub BtnBooking_Click(sender As Object, e As EventArgs) Handles BtnBooking.Click
+
+    End Sub
 End Class
